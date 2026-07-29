@@ -16,7 +16,6 @@
 
 ##  Dashboard Preview
 
-> در این قسمت تصویر کلی داشبورد را قرار بده.
 
 ![Overview](Images/Overview.png)
 
@@ -38,7 +37,7 @@
 - Total Miles by Purpose
 - Monthly Trip Trend
 
- تصویر
+ 
 
 ![Overview](Images/Overview.png)
 
@@ -55,7 +54,7 @@
 - Miles by Day of Week
 - Scatter Plot (Miles vs Duration)
 
-📷 تصویر
+
 
 ![Trip Patterns](Images/TripPatterns.png)
 
@@ -73,7 +72,7 @@
 - Average Duration by Purpose
 - Average Miles by Purpose
 
-📷 تصویر
+
 
 ![Efficiency](Images/EfficiencyInsights.png)
 
